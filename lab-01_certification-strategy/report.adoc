@@ -92,3 +92,27 @@ standard to lookup the aspects, which are _implementation-dependant_, and
 carefully document the usages of such features (e.g. C++ compiler extensions,
 vendor-dependant) and provide related test cases. So, if moving to a different
 implementation, it would be easier to investigate possible "unexpected" issues.
+
+== 2. Certification programs classification
+
+[cols="1,1,1,2"]
+|===
+|Certification type
+|Program
+|Provider
+|Goal
+
+|Vendor-specific
+|Java SE 21 Developer Professional
+|Oracle
+|Proficiency in Java programming
+
+|Vendor-neutral
+|SEI Software Architecture Professional Certificate
+|Carnegie Mellon University
+|Practices for designing, analyzing, documenting, and implementing software architectures
+
+|Entry-level
+|Java Foundations
+|Oracle
+|Basic understanding of Java programming language and concepts and have mathematical, logical, and analytical problem-solving skills
