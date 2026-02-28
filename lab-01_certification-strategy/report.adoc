@@ -141,4 +141,4 @@ Pricing:: $250 USD, $49 for Broadcom employees
 
 Recertification:: after 3 days (first attempt), 2 weeks (second attempt)
 
-Certification expirement:: 2 years
+Certification expires:: after 2 years
