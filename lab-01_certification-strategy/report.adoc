@@ -1,6 +1,6 @@
 = Standardization and IT certification strategy planning
 
-NOTE: Selected role: backend developer (Node.js)
+NOTE: Selected role: backend developer
 
 == 1. Impact of standards on software development
 
