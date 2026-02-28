@@ -116,3 +116,29 @@ implementation, it would be easier to investigate possible "unexpected" issues.
 |Java Foundations
 |Oracle
 |Basic understanding of Java programming language and concepts and have mathematical, logical, and analytical problem-solving skills
+|===
+
+== 3. What are some certification exams like?
+
+Certification: Spring Certified Professional 2024 provided by VMware (owned by
+Broadcom)
+
+Format:: Computer-based, delivered at Pearson VUE centers
+
+Exam Language:: English
+
+Duration:: 130 minutes
+
+Number of Questions:: 60 single and multiple choice
+
+Proctoring:: Qualified proctors through independent test centers, on Broadcom's
+behalf, administer the certification exams.  The exam is "closed book" (no
+printed material, computers or calculators are allowed)
+
+Passing Score:: 300 (Scaled) 
+
+Pricing:: $250 USD, $49 for Broadcom employees
+
+Recertification:: after 3 days (first attempt), 2 weeks (second attempt)
+
+Certification expirement:: 2 years
